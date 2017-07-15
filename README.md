@@ -1,2 +1,2 @@
 # deepdrive0.github.io
-Homepage for DeepDrive.ai
+At DeepDrive.ai, we drive with deep learning and deep reinforcement learning. Stay tuned. 
